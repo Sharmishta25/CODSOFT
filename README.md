@@ -1,1 +1,1 @@
-I have completed the three projects of Data Science as per the requirements of the internship. The Three Projects are :- Titanic Survival Prediction , Iris Flower Classification and Credit Card Fraud Prediction
+I have completed the three projects of Data Science as per the requirements of the internship. The Projects are Titanic Survival Prediction , Iris Flower Classification and Credit Card Fraud Prediction
